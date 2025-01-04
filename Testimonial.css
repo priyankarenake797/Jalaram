@@ -1,0 +1,25 @@
+/* Testimonial.css */
+.testimonial_bg {
+  background-color: #f8f9fa; /* Customize your background color */
+}
+
+.heading span {
+  font-size: 2rem;
+  font-weight: bold;
+}
+
+.stars ul {
+  list-style: none;
+  padding: 0;
+  display: flex;
+  justify-content: center;
+}
+
+.stars li {
+  margin: 0 2px;
+  color: #f39c12; /* Star color */
+}
+
+.testimonial_img img {
+  border-radius: 50%; /* Optional: Makes the image round */
+}
